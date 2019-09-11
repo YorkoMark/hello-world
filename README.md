@@ -1,4 +1,5 @@
 # hello-world
-My first repository on GitHub
-I love beer and fried chicken
-Please send some
+This is my first repository on GitHub.
+I love beer and fried chicken.
+Please send some.
+Thanks.
